@@ -1,0 +1,18 @@
+{
+  "name": "stream-buffer-monitor",
+  "version": "1.0.0",
+  "description": "A stream to monitor your buffer status and alert you of over-threshold and increasing buffer",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eiriklv/stream-buffer-monitor.git"
+  },
+  "author": "Eirik Vullum <evullum@gmail.com> (http://www.vullum.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.1.1"
+  }
+}
